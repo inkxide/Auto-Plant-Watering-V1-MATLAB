@@ -15,3 +15,5 @@ CONCLUSIONS AND RECOMMENDATIONS: The recommendation includes that the moisture s
 # Flowchart 
 <img src="https://github.com/inkxide/Auto-Plant-Watering-MATLAB-Program/assets/122377141/14c4ffd7-3f0b-4ea1-be42-7b8f86f81017&"/>
 
+# Annotated Graph
+<img src="https://github.com/inkxide/Auto-Plant-Watering-MATLAB-Program/assets/122377141/8832f8c6-49f1-4dea-98a0-3a44ebc30dd2&"/>
