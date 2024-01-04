@@ -8,3 +8,6 @@ PROCEDURE: An Arduino Grove Board was connected to a MOSFET sensor and Moisture 
 RESULTS: The Auto Plant Watering with the script ran a state machine, pumped water into the soil when dry, and stopped pumping water when wet. 
 
 CONCLUSIONS AND RECOMMENDATIONS: The recommendation includes that the moisture sensor senses that the soil is wet and turns the pump off, but since the soil was already wet the pump was off, so to simulate a dry condition, the moisture sensor was pulled out of the soil manually, where the water pump turned on following the state machine algorithm and turned off when the moisture sensor was put back into the wet soil. In conclusion, dry soil value on the graph ranged from an average value of 34-45 and the wet soil ranged from 15-28. 
+
+![image](https://github.com/inkxide/Auto-Plant-Watering-MATLAB-Program/assets/122377141/9864642d-4171-4154-86f4-fc36139f18c6)
+
