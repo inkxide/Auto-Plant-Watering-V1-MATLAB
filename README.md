@@ -12,10 +12,10 @@ CONCLUSIONS AND RECOMMENDATIONS: The recommendation includes that the moisture s
 # Plant and Hardware Setup 
 <img src="https://github.com/inkxide/Auto-Plant-Watering-MATLAB-Program/assets/122377141/9864642d-4171-4154-86f4-fc36139f18c6&"/>
 
-Link: https://lucid.app/lucidchart/51f39dca-137d-4154-89a5-aa0e7f8488da/edit?viewport_loc=-2940%2C-926%2C5889%2C3054%2C0_0&invitationId=inv_c2387148-9d7a-47d5-a779-6bc55dc3eb4b
-
 # Flowchart 
 <img src="https://github.com/inkxide/Auto-Plant-Watering-MATLAB-Program/assets/122377141/14c4ffd7-3f0b-4ea1-be42-7b8f86f81017&"/>
+Link: https://lucid.app/lucidchart/51f39dca-137d-4154-89a5-aa0e7f8488da/edit?viewport_loc=-2940%2C-926%2C5889%2C3054%2C0_0&invitationId=inv_c2387148-9d7a-47d5-a779-6bc55dc3eb4b
+
 
 # Annotated Graph
 <img src="https://github.com/inkxide/Auto-Plant-Watering-MATLAB-Program/assets/122377141/8832f8c6-49f1-4dea-98a0-3a44ebc30dd2&"/>
